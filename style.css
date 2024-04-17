@@ -16,7 +16,6 @@ body {
 .skills {
   width: 160px;
   height: 160px;
-  /* background: cornflowerblue; */
   position: relative;
 }
 
@@ -24,7 +23,6 @@ body {
   width: 160px;
   height: 160px;
   border-radius: 50%;
-  /* border: 1px solid red; */
   padding: 20px;
   box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     -6px -6px 10px -1px rgba(225, 225, 225, 0.7);
@@ -34,7 +32,6 @@ body {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  /* border: 1px solid red; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -45,7 +42,7 @@ body {
 }
 
 #number {
-  font-weight: 600px;
+  font-weight: 600;
   color: #555;
 }
 
